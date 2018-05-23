@@ -15,4 +15,7 @@ Inverse Reinforcement Learning (IRL) is the task of extracting an expert’s rew
 
 # Project 4 IMDb Mining
 
+In this project, we will study the various properties of Internet Movie Database (IMDb). In the first part of the project, we will explore the properties of a directed actor/actress network. In the second part of the project, we will explore the properties of an undirected movie network.
+
+
 # Project 5 Graph Theory Applications
